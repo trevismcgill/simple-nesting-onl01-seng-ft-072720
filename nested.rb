@@ -83,8 +83,8 @@ def adding_matz
         }
      }
 
-     programmer_hash => yuki_hash
-     yuki_hash
+     programmer_hash.merge!(yuki_hash)
+     programmer_hash
 
 
 end
