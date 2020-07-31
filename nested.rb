@@ -84,6 +84,7 @@ def adding_matz
      }
 
      programmer_hash[:yuki_hash]
+     yuki_hash
 
 
 end
